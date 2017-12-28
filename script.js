@@ -1,8 +1,8 @@
 // This array holds all the types of music
-var musicID = ['EDM', 'Rap', 'Rock', 'Pop'];
+const musicID = ['EDM', 'Rap', 'Rock', 'Pop'];
 
 // This array holds all the background colors of our divs
-var colorArray = ['red', 'green', 'blue', 'purple'];
+const colorArray = ['red', 'green', 'blue', 'purple'];
 
 // This for loop will go through the musicID and create a new div with the ID of the current color
 for (i = 0; i < musicID.length; i++) {
